@@ -32,6 +32,7 @@ This project aims to analyze road damage and accident risk using Business Intell
 
 ## Project Demo
 Video Link : https://youtu.be/gxnZ1VYfzYA?si=QJeJlIU5ZlKd6ihU
+
 Output Screenshot :  https://drive.google.com/file/d/1su6PfU-n1hk8Fh8m8opHTRf3o6aVZd5L/view?usp=sharing
 
 ---
